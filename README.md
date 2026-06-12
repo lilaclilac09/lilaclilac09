@@ -47,14 +47,6 @@
 - **[RPCsol_pnl](https://github.com/lilaclilac09/RPCsol_pnl)** — Solana RPC-based PnL tracker `JavaScript`
 - **[MPPSOL-agents](https://github.com/lilaclilac09/MPPSOL-agents)** — agent framework for Solana market-making `JavaScript`
 
-### 💵 Perena / Stablecoin Dashboards
-
-- **[perena-dashboard0615](https://github.com/lilaclilac09/perena-dashboard0615)** — dashboard for the Perena USD* stablecoin `TypeScript`
-- **[perena-dashboard0615_1](https://github.com/lilaclilac09/perena-dashboard0615_1)** — first desktop upload of the Perena dashboard `TypeScript`
-- **[perena-dashboard0615_0](https://github.com/lilaclilac09/perena-dashboard0615_0)** — Perena dashboard work-in-progress
-- **[penera](https://github.com/lilaclilac09/penera)** — Perena protocol experiments `JavaScript`
-- **[penera_USD_STAR](https://github.com/lilaclilac09/penera_USD_STAR)** — Perena USD* stablecoin experiments
-
 ### 🔐 Security & Reverse Engineering
 
 - **[re-agent](https://github.com/lilaclilac09/re-agent)** — RE agent: Binary Ninja bridge + Claude tool-calling loop for stateful binary analysis `Python`
@@ -66,30 +58,19 @@
 - **[multiagentclaw](https://github.com/lilaclilac09/multiagentclaw)** — multi-agent orchestration experiments `Python`
 - **[Vibe-Coding-Task-Manager](https://github.com/lilaclilac09/Vibe-Coding-Task-Manager)** — task manager for vibe-coding workflows
 - **[tamagochi-agent-interface](https://github.com/lilaclilac09/tamagochi-agent-interface)** — playful tamagotchi-style agent UI
-- **[tamagochi-aget-interface](https://github.com/lilaclilac09/tamagochi-aget-interface)** — tamagotchi agent UI (early version)
+
 
 ### 📚 Interactive Courses
 
 - **[solana-speed-demons](https://github.com/lilaclilac09/solana-speed-demons)** — 7-module course on Solana validator internals: Firedancer, Samba MEV, Delorean, pmm-sim `HTML`
 - **[autoresearch-course](https://github.com/lilaclilac09/autoresearch-course)** — 4-module course on autonomous LLM-driven research loops `HTML`
-- **[US-STOCKS-DEEP-ANALYSIS](https://github.com/lilaclilac09/US-STOCKS-DEEP-ANALYSIS)** — deep-dive analysis of US equities · [site](https://us-stocks-deep-analysis.vercel.app) `HTML`
 
 ### 🎨 Web Apps & Fun
 
 - **[aileen_machina_01](https://github.com/lilaclilac09/aileen_machina_01)** — personal site for tech blogs · [site](https://aileen-machina-01.vercel.app) `TypeScript`
-- **[aileen_machina_020](https://github.com/lilaclilac09/aileen_machina_020)** — personal site, iteration 020 `TypeScript`
-- **[Zen-Fortune-Cookie](https://github.com/lilaclilac09/Zen-Fortune-Cookie)** — a zen fortune-cookie web app `TypeScript`
 - **[fortune_cookie](https://github.com/lilaclilac09/fortune_cookie)** — fortune-cookie web app · [site](https://fortune-cookie-sand.vercel.app) `TypeScript`
 - **[meme.vote](https://github.com/lilaclilac09/meme.vote)** — vote on memes, tally the results
 - **[dart-watch](https://github.com/lilaclilac09/dart-watch)** — dart / watch experiment `TypeScript`
-- **[demo](https://github.com/lilaclilac09/demo)** — demo sandbox `JavaScript`
-
-### 🧪 Experiments & Sandbox
-
-- **[project001](https://github.com/lilaclilac09/project001)** — Solidity smart-contract sandbox `Solidity`
-- **[puku_2](https://github.com/lilaclilac09/puku_2)** — scratch project `TypeScript`
-- **[puku3](https://github.com/lilaclilac09/puku3)** — scratch project `TypeScript`
-- **[puku4](https://github.com/lilaclilac09/puku4)** — scratch project `HTML`
 
 
 <p align="center"><sub>📍 Mars · Building at the intersection of Solana, MEV, and AI agents</sub></p>
