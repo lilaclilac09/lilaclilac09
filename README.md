@@ -38,9 +38,7 @@
 ### 🤖 Trading Bots & On-Chain Tools
 
 - **[HumidiFi-Sentinel-Bot_with-bundle-detection-ugly-front](https://github.com/lilaclilac09/HumidiFi-Sentinel-Bot_with-bundle-detection-ugly-front)** — HumidiFi sentinel bot with bundle detection (Helius API)
-- **[Hyperliquid-HYPE-Whale-Tracker](https://github.com/lilaclilac09/Hyperliquid-HYPE-Whale-Tracker)** — tracks HYPE whale activity on Hyperliquid `TypeScript`
 - **[jupiter-swap-w-o-wallet-price-feed](https://github.com/lilaclilac09/jupiter-swap-w-o-wallet-price-feed)** — Jupiter swap price feed and pairs, no wallet required `TypeScript`
-- **[BNB-Memecoin-Copy-Trade-Architect](https://github.com/lilaclilac09/BNB-Memecoin-Copy-Trade-Architect)** — copy-trading architecture for BNB memecoins `TypeScript`
 - **[RPCsol_pnl](https://github.com/lilaclilac09/RPCsol_pnl)** — Solana RPC-based PnL tracker `JavaScript`
 - **[MPPSOL-agents](https://github.com/lilaclilac09/MPPSOL-agents)** — agent framework for Solana market-making `JavaScript`
 
