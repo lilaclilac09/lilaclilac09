@@ -33,9 +33,6 @@
 
 - **[pamm-a](https://github.com/lilaclilac09/pamm-a)** — research & implementation sandbox for prop AMMs, market making, and Solana simulation `Rust`
 - **[solana-pamm-MEV-binary-monte-analysis-contagious-pools](https://github.com/lilaclilac09/solana-pamm-MEV-binary-monte-analysis-contagious-pools)** — Monte-Carlo / binary analysis of MEV contagion across pools · [site](https://solana-pamm-mev-binary-monte-analys.vercel.app) `Jupyter`
-- **[solana-pamm-MEV-binary-monte-analysis-w-o-rawdata](https://github.com/lilaclilac09/solana-pamm-MEV-binary-monte-analysis-w-o-rawdata)** — the analysis pipeline, raw data stripped `Jupyter`
-- **[Prop-AMM-Toxic-Flow-Guard-1230-w-o-jito-bundle-w-pretty-front](https://github.com/lilaclilac09/Prop-AMM-Toxic-Flow-Guard-1230-w-o-jito-bundle-w-pretty-front)** — toxic-flow guard for prop AMMs with a clean front-end `TypeScript`
-- **[Prop-AMM-Toxic-Order-Monitor](https://github.com/lilaclilac09/Prop-AMM-Toxic-Order-Monitor)** — real-time toxic-order monitoring for prop AMMs `TypeScript`
 - **[propamm-laserstream-bot](https://github.com/lilaclilac09/propamm-laserstream-bot)** — prop-AMM bot built on a Helius LaserStream feed `TypeScript`
 
 ### 🤖 Trading Bots & On-Chain Tools
