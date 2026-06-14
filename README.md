@@ -7,9 +7,9 @@ Research & Builds
 - Semiconductor Supply Chain: Mapping the physical and economic dependencies of AI silicon - focusing on Co-Packaged Optics (CPO) and NVIDIA GB200/GB300 packaging bottlenecks.
 
 Process & Precision
-- Spec-Driven Architecture: Formalizing system invariants and state transition boundaries before writing a single line of implementation. No drift between spec and code.
-- Type-Safe State Machines: Leveraging Rust's type system (Type-State pattern) to enforce compile-time verification of security-critical workflows - making invalid states (e.g., leaked session keys in KeyShield) unrepresentable.
-- High-Performance Determinism: Zero-allocation hot paths, strict latency budgeting (50-80ms targets), and rigorous profiling to eliminate runtime overhead.
+- Spec-Driven AI Co-authoring: Treating human-written specs as the source of truth; leveraging AI to generate structural scaffolding, while leaving zero room for LLM drift or hallucination.
+- Compiler-Guarded Safety: Using Rust's strict type-system (Type-State pattern, lifetime constraints) as a compile-time firewall. AI writes the code, the borrow checker verifies the logic.
+- Deterministic Hot Paths: Strict latency budgeting (50-80ms target in KeyShield), zero-allocation design, and aggressive profiling to keep runtime overhead at absolute zero.
 
 Stack
 - Rust, TypeScript, Python
