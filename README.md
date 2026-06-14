@@ -23,7 +23,7 @@
 - 🧩 **Spec-first** — `SPEC.md` (v0.1) pinned the protocol and invariants *before* code; the TypeScript vault, Rust proxy, Python SDK, MCP server, and Solana on-chain program all trace back to it
 - 🛣️ **In design — x402 payments** — pay-per-call stablecoin settlement (USDC on Solana) so an agent's `spend_cap_usd` becomes a hard, autonomous budget · [details →](./keyshield-process.md)
 
-<sub>Stack: `Rust` · `TypeScript` · `Python` · MCP · Solana · x402</sub>
+<sub>Stack: `TypeScript` · `Rust` · `Python` · MCP · Solana · x402</sub>
 
 ---
 
