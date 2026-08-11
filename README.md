@@ -1,4 +1,4 @@
-# # Aileen
+# Aileen
 
 DeFi propagation research & hardware supply chain analysis. Writing about why things break and DJing while they keep running.
 
