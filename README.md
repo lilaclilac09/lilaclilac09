@@ -35,7 +35,6 @@ DeFi propagation research & hardware supply chain analysis. Writing about why th
 <!-- profile:recently-added:start -->
 * **On-site voice agent**: Console voice orb on [aileena.xyz](https://aileena.xyz) — Web Speech listen → turn accumulation → soft auntie TTS reply, with mic-blocked hints and visitor-safe quotas.
 * **Machina memory**: Site memory loop and *[How the Site Remembers](https://aileena.xyz/blog/machina-memory)* dispatch — Dreaming reports plus watchlist-only RSS ingest.
-* **Console voice-code**: Orb voice to DeepSeek propose-only patches without Cursor API tokens, with visitor quota and live eval gates.
 <!-- profile:recently-added:end -->
 
 ---
