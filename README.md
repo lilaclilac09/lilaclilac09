@@ -31,11 +31,6 @@ DeFi propagation research & hardware supply chain analysis. Writing about why th
 * **Machina memory**: How the Site Remembers — Machina memory essay, and watchlist-only RSS ingest + Dreaming.
 <!-- profile:recently-updated:end -->
 
-### Recently Added
-<!-- profile:recently-added:start -->
-* **On-site voice agent**: Console voice orb on [aileena.xyz](https://aileena.xyz) — Web Speech listen → turn accumulation → soft auntie TTS reply, with mic-blocked hints and visitor-safe quotas.
-* **Machina memory**: Site memory loop and *[How the Site Remembers](https://aileena.xyz/blog/machina-memory)* dispatch — Dreaming reports plus watchlist-only RSS ingest.
-<!-- profile:recently-added:end -->
 
 ---
 
