@@ -12,7 +12,7 @@ DeFi propagation research & hardware supply chain analysis. Writing about why th
 * **Solana MEV Contagion**: Multi-pool shock propagation modeling and prop AMM risk mechanics.
 * **Semiconductor Supply Chain**: Mapping the physical and economic dependencies of AI silicon — focusing on Co-Packaged Optics (CPO) and NVIDIA GB200/GB300 packaging bottlenecks.
 
-### Process & Precision* 
+### Process & Precision
 * **Spec-Driven AI Co-authoring**: Treating human-written specs as the source of truth; leveraging AI to generate structural scaffolding, while leaving zero room for LLM drift or hallucination.
 * **Inspect Before Patch**: AI must read the live path, name the root cause, and ship the smallest diff. No parallel rewrite of a working flow. A code read is not acceptance.
 * **Evidence Closer**: Every AI change is graded on root cause, files changed, checks actually run, the user flow, remaining risks, and an explicit safe-to-merge call. Missing a check is reported, not implied.
