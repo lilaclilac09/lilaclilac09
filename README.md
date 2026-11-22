@@ -1,5 +1,7 @@
 # Aileen
 
+**Status: LIVE (GitHub profile only)** — https://github.com/lilaclilac09 returned HTTP 200 on 2026-11-22. Next human action: review this profile update; linked project functionality and performance are not certified by this profile audit.
+
 DeFi propagation research & hardware supply chain analysis. Writing about why things break and DJing while they keep running.
 
 ### ✦ Featured Dispatch
